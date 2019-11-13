@@ -2,4 +2,4 @@
 
 Esse repositório serve para o armazenamento das melhores imagens de Dark Souls no formato Chibi.
 
-<img src="/home/eduardo/Documentos/ChibiSouls/chibi_knight.jpg>
+<img src="/home/eduardo/Documentos/ChibiSouls/chibi_knight.jpg">
