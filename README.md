@@ -5,4 +5,4 @@
 ![chibieevee](https://user-images.githubusercontent.com/39087171/68896734-e3bb6d00-070a-11ea-958a-e07bd673b112.jpg)
 
 
-Essas foram as melhores imagens no formato Chibi de Dark Souls !!
+Essas foram as melhores imagens do estilo Chibi até o momento !!
