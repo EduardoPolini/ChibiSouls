@@ -1,4 +1,4 @@
-# Repositório para imagens Chibi de Dark Souls 1
+# Repositório para imagens Chibi !!
 
 ![ChibiKnight](https://user-images.githubusercontent.com/39087171/68776906-94dcdd00-060f-11ea-9967-aa1a34778a43.png)
 
